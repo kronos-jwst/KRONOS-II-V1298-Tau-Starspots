@@ -1,0 +1,1 @@
+This article has been accepted for publication in The Astrophysical Journal, and is currently in proof (as of this update 11/12/2026). The article may also be downloaded at https://arxiv.org/abs/2606.16782. These notebooks allow reproducing figures from the article. If any data or notebooks are used, please cite our work appropriately.
